@@ -22,7 +22,7 @@ What its machine learning ?
 - Dimensional reduction 
 
 ### Process:
-![Process](https://github.com/pepsm/ML/process.png) 
+![Process](https://github.com/pepsm/ML/blob/master/process.png) 
 
 ### Books: 
 
