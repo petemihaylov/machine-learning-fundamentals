@@ -6,7 +6,7 @@ import numpy as np
 from sklearn import linear_model, preprocessing
 
 # collecting data
-data = pd.read_csv("car.data.txt")
+data = pd.read_csv("car.data")
 print(data.head())
 
 # converting the data into a numerical one
