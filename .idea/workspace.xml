@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="114fda41-c6fa-4cf2-b03d-dd72569b03c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algo/KNN/KNN three datasets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614619008399</updated>
-      <workItem from="1614619017239" duration="6276000" />
+      <workItem from="1614619017239" duration="7140000" />
     </task>
     <servers />
   </component>
