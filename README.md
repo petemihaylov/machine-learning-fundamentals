@@ -16,10 +16,10 @@ What its machine learning ?
 
 
 ### Problems
-- Classification 
-- Regression 
-- Clustering 
-- Dimensional reduction 
+ - Classification 
+ - Regression 
+ - Clustering 
+ - Dimensional reduction 
 
 ### Process:
 ![Process](https://github.com/pepsm/ML/blob/master/process.png) 
@@ -28,5 +28,5 @@ What its machine learning ?
 
 [Python Machine Learning (3rd Ed.)](https://github.com/rasbt/python-machine-learning-book-3rd-edition) by Raschka, Sebastian and Mirjalili, Vahid
 
-
+### References
 All the credits for the roadmap goes to [Daniel Bourke](https://github.com/mrdbourke)'s [machine learning mindmaps](https://github.com/mrdbourke/machine-learning-roadmap) who inspired me and helped me during my studies.
