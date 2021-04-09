@@ -13,5 +13,3 @@ Using Anaconda:
 `pip install numpy`
 `pip install tflearn`
 `pip install tensorflow`
-
-4. 
