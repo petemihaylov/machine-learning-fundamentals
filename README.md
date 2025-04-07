@@ -5,8 +5,6 @@ What its machine learning ?
 > being explicitly programmed” - Arthur Samuel
 
 
-![Roadmap](https://raw.githubusercontent.com/mrdbourke/machine-learning-roadmap/master/2020-ml-roadmap-overview.png?token=AD7ZOCOIG7IZXHDL63W6RZK7A3B6I)
-
 ### Categories / Types of learning 
 
  - **Supervised** *( You have data and labels, the model tries to learn the relationship between the 	data and labels. )*
